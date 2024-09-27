@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning basics in computing (im a french student, currently 2nd year)
 - 📫 How to reach me, discord: ewilann_
 - 😄 Pronouns: elle/she
-- ⚡ Fun fact: ...
-<!-- - 💞️ I’m looking to collaborate on ... --->
+<!-- - ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ... --->
 
 <!---
 Ewilanstr/Ewilanstr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
