@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersec, dev web
 - 🌱 I’m currently learning basics in computing (im a french student, currently 2nd year)
 - 📫 How to reach me, discord: ewilann_
-- 😄 Pronouns: elle/she
+- 😄 Pronouns: she/her
 <!-- - ⚡ Fun fact: ...
 - 💞️ I’m looking to collaborate on ... --->
 
